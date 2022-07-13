@@ -104,6 +104,10 @@ body {
     padding: 20px;
     width: 50%;
   }
+  
+   .title {
+    font-size: 18px;
+  }
 
 }
 
